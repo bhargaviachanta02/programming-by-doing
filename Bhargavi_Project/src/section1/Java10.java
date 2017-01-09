@@ -6,8 +6,8 @@ public class Java10 {
 	        String myName, myEyes, myTeeth, myHair;
 	        int myAge, myHeight, myWeight;
 
-	        myName = "Zed A. Shaw";
-	        myAge = 35;     // not a lie
+	        myName = "bhargavi";
+	        myAge = 33;     // not a lie
 	        myHeight = 74;  // inches
 	        myWeight = 180; // lbs
 	        myEyes = "Blue";
